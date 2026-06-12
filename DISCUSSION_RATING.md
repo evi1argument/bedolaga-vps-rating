@@ -50,7 +50,7 @@
 | 7 | **[Hetzner](https://hetzner.com)** | **2** | 0 | 🇩🇪🇫🇮 | Эталон качества; DDR5; часто как ориентир для сравнения |
 | 8 | **[Intezio](https://intezio.net)** | **1** | 0 | 🇪🇪🇵🇱 | R9 9950X3D; EE/PL; 500 ₽; «пушка» по отзывам |
 | 9 | **[IShosting](https://ishosting.com)** | **1** | 0 | 🇯🇵 | Физическая Япония; 640 ₽; «хороший по стабильности» |
-| 10 | **[Hostoff](https://hostoff.net)** | **1** | 0 | 🇳🇱🇵🇱 | NL/PL; 3.99–5 €; 10 Gbit |
+| 10 | **[HOSTOFF.NET](https://hostoff.net)** | **1** | 0 | 🇳🇱🇵🇱 | NL/PL; 3.99–5 €; 10 Gbit |
 | 11 | **[Freakhosting](https://freakhosting.com)** | **1** | 0 | 🇩🇪 | AMD; бюджетно; DE от 2.49 € |
 | 12 | **[DHostVPS](https://t.me/dhostVPS_bot)** 🤖 | — | 0 | 🇩🇪🇳🇱 | Без формальных хэштегов, но позитивно упоминается; NL 277 ₽; 10 Gbit; стабильный |
 
@@ -131,7 +131,7 @@ Play2Go — самый обсуждаемый хостинг в чате (1 079 
 | 24 | **[AdminVPS](https://adminvps.ru)** ⚠️ | 40 | 0 | **1** | 🇷🇺🇫🇮🇳🇱 |
 | 25 | **[Procloud](https://procloud.ru)** | 30 | **4** | 0 | 🇷🇺🇵🇱🇰🇿🇺🇸 |
 | 26 | **[Akenai](https://akenai.host)** | 34 | 0 | 0 | 🇩🇪🇫🇮 |
-| 27 | **[Hostoff](https://hostoff.net)** | 34 | 1 | 0 | 🇳🇱🇵🇱 |
+| 27 | **[HOSTOFF.NET](https://hostoff.net)** | 34 | 1 | 0 | 🇳🇱🇵🇱 |
 | 28 | **[Freakhosting](https://freakhosting.com)** | 32 | 1 | 0 | 🇩🇪 |
 | 29 | **[Serv.host](https://serv.host)** | 33 | 0 | 0 | 🇷🇺🇸🇪 |
 | 30 | **[Justhost](https://justhost.ru)** ⚠️ | 30 | 0 | 0 | 🇷🇺 |
