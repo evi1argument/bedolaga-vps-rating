@@ -69,6 +69,23 @@
 
 ---
 
+## 🎯 Как выбрать хостинг под задачу
+
+Чат отвечает на «посоветуйте хостинг» одинаково — цитата админа: *«Формируй свои критерии и смотри в тестах — иначе насоветуют то, что под твою задачу не подойдёт»*. Ниже — сводка реальных советов из 163 тредов «Обсуждения» (июнь–июль 2026).
+
+| Задача | Кого советуют в чате |
+|---|---|
+| **Нода VPN без моста** | [Doubleservers](https://doubleservers.com) · [Waicore](https://waicore.com) · [Akenai](https://akenai.host) · [Puws.Cloud](https://puws.cloud); бюджетно — Aeza promo и Play2Go DE/PL «как расходник» |
+| **Мост из РФ** | [Beget](https://beget.com) — чаще всех · [Selectel](https://selectel.ru) · [TimeWeb](https://timeweb.cloud) · [Makecloud](https://makecloud.ru) «если очень дёшево» · [Cloudcore](https://cloudcore.ru) |
+| **Панель + бот** | [Hetzner](https://hetzner.com) · [OVH](https://ovhcloud.com) · [Hostup](https://hostup.co) · [Doubleservers](https://doubleservers.com) |
+| **YouTube без рекламы (RU-гео)** | [VK Cloud](https://cloud.vk.com) · [Beget](https://beget.com) · [TimeWeb](https://timeweb.cloud) · [Selectel](https://selectel.ru) |
+| **Максимальная стабильность** | [Hetzner](https://hetzner.com) · [OVH](https://ovhcloud.com) |
+| **Экзотические локации** | Япония — [Akenai](https://akenai.host) · [Zeabur](https://zeabur.com); UK — [Akenai](https://akenai.host) · [HostKey](https://hostkey.com) · [OneDash](https://t.me/OneDash); Латвия — [Veesp](https://veesp.com); Норвегия — [SharpTech](https://shrp.no) |
+
+Критерии сообщества, по убыванию важности: работа **без моста из РФ** → локация → чистота IP и гео-баз (ТСПУ, блоки РКН, реклама на YouTube) → честность канала и fair use → цена (типичный бюджет 150–500 ₽/мес) → способ оплаты (РФ-карты / СБП / крипта) → скорость поддержки.
+
+---
+
 ## 📊 Рейтинг
 
 ### 🟢 Топ — Score ≥ 15
