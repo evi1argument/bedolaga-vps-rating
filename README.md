@@ -75,8 +75,9 @@
 
 | Задача | Кого советуют в чате |
 |---|---|
-| **Нода VPN без моста** | [Doubleservers](https://doubleservers.com) · [Waicore](https://waicore.com) · [Akenai](https://akenai.host) · [Puws.Cloud](https://puws.cloud); бюджетно — Aeza promo и Play2Go DE/PL «как расходник» |
-| **Мост из РФ** | [Beget](https://beget.com) — чаще всех · [Selectel](https://selectel.ru) · [TimeWeb](https://timeweb.cloud) · [Makecloud](https://makecloud.ru) «если очень дёшево» · [Cloudcore](https://cloudcore.ru) |
+| **Нода VPN без моста** | [Akenai](https://akenai.host) · [Waicore](https://waicore.com) · [Puws.Cloud](https://puws.cloud); бюджетно — Aeza promo и Play2Go DE/PL «как расходник» |
+| **Нода VPN с мостом из РФ** | [Doubleservers](https://doubleservers.com) · [Hetzner](https://hetzner.com) (VibeHost) · [OVH](https://ovhcloud.com) — максимум стабильности; из РФ работают через мост (это норма для хостов такого класса, не недостаток) |
+| **Мост из РФ** | [Beget](https://beget.com) — чаще всех · [Selectel](https://selectel.ru) · [TimeWeb](https://timeweb.cloud) · [Makecloud](https://makecloud.ru) «если очень дёшево» (⚠️ хвалит фактически один участник) · [Cloudcore](https://cloudcore.ru) |
 | **Панель + бот** | [Hetzner](https://hetzner.com) · [OVH](https://ovhcloud.com) · [Hostup](https://hostup.co) · [Doubleservers](https://doubleservers.com) |
 | **YouTube без рекламы (RU-гео)** | [VK Cloud](https://cloud.vk.com) · [Beget](https://beget.com) · [TimeWeb](https://timeweb.cloud) · [Selectel](https://selectel.ru) |
 | **Максимальная стабильность** | [Hetzner](https://hetzner.com) · [OVH](https://ovhcloud.com) |
