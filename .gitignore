@@ -1,0 +1,9 @@
+# Выгрузка «Обсуждения» в HTML весит ~190 МБ — в git не кладётся.
+# Путь к ней передаётся аргументом scripts/parse_mentions.py,
+# в репозиторий уезжает только data/processed/mentions.csv.
+ChatExport_*/
+*.html
+
+__pycache__/
+*.pyc
+.venv/

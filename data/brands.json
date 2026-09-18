@@ -1,0 +1,1823 @@
+[
+ {
+  "name": "1cent.host",
+  "url": "https://1cent.host",
+  "flags": "🇩🇪🇫🇮🇪🇪",
+  "aliases": [
+   "1 cent",
+   "1cent",
+   "1cent.host",
+   "1centhost"
+  ],
+  "legacy": {
+   "score": 20,
+   "tests": 9,
+   "rank": 6
+  }
+ },
+ {
+  "name": "4VPS",
+  "url": "https://4vps.su",
+  "flags": "🇷🇺",
+  "aliases": [
+   "4vps",
+   "4vps.su"
+  ],
+  "legacy": {
+   "score": -15,
+   "tests": 11,
+   "rank": 89
+  }
+ },
+ {
+  "name": "AdminVPS",
+  "url": "https://adminvps.ru",
+  "flags": "🇷🇺🇵🇱",
+  "aliases": [
+   "admin vps",
+   "adminvps",
+   "adminvps.ru",
+   "админвпс"
+  ],
+  "legacy": {
+   "score": -6,
+   "tests": 3,
+   "rank": 83
+  }
+ },
+ {
+  "name": "Aeza",
+  "url": "https://aeza.net",
+  "flags": "🇷🇺🇩🇪🇫🇮🇺🇸",
+  "aliases": [
+   "aeza",
+   "aeza.gg",
+   "aeza.net",
+   "аеза",
+   "азаза",
+   "аэза"
+  ],
+  "legacy": {
+   "score": -13,
+   "tests": 8,
+   "rank": 87
+  }
+ },
+ {
+  "name": "Akenai",
+  "url": "https://akenai.host",
+  "flags": "🇬🇧🇳🇱🇩🇪🇮🇹🇯🇵",
+  "aliases": [
+   "akenai",
+   "akenai.host",
+   "акенай"
+  ],
+  "legacy": {
+   "score": 5,
+   "tests": 2,
+   "rank": 31
+  }
+ },
+ {
+  "name": "AlexHost",
+  "url": "https://alexhost.com",
+  "flags": "🇸🇪🇲🇩🇳🇱",
+  "aliases": [
+   "alexhost",
+   "alexhost.com"
+  ],
+  "legacy": {
+   "score": 2,
+   "tests": 2,
+   "rank": 48
+  }
+ },
+ {
+  "name": "Aluy",
+  "url": "https://aluy.net",
+  "flags": "🇩🇪",
+  "aliases": [
+   "aluy",
+   "aluy.net"
+  ],
+  "legacy": {
+   "score": 3,
+   "tests": 2,
+   "rank": 39
+  }
+ },
+ {
+  "name": "Alwyzon",
+  "url": "https://alwyzon.com",
+  "flags": "🇦🇹",
+  "aliases": [
+   "alwyzon",
+   "alwyzon.com"
+  ],
+  "legacy": {
+   "score": 11,
+   "tests": 1,
+   "rank": 17
+  }
+ },
+ {
+  "name": "AstraVPS",
+  "url": "https://astravps.ru",
+  "flags": "",
+  "aliases": [
+   "astra vps",
+   "astravps",
+   "astravps.ru",
+   "astravpsbot",
+   "астравпс"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Aurorix",
+  "url": "https://aurorix.net",
+  "flags": "🇩🇪",
+  "aliases": [
+   "aurorix",
+   "aurorix.net"
+  ],
+  "legacy": {
+   "score": -4,
+   "tests": 1,
+   "rank": 79
+  }
+ },
+ {
+  "name": "AVAServer",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "ava server",
+   "avaserver"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Awas",
+  "url": "https://awas.ovh",
+  "flags": "",
+  "aliases": [
+   "awas",
+   "awas.ovh"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Beget",
+  "url": "https://beget.com",
+  "flags": "🇷🇺🇱🇻",
+  "aliases": [
+   "beget",
+   "beget.com",
+   "бегет"
+  ],
+  "legacy": {
+   "score": 25,
+   "tests": 16,
+   "rank": 5
+  }
+ },
+ {
+  "name": "Blackmore",
+  "url": "https://blackmore.cloud",
+  "flags": "🇳🇱",
+  "aliases": [
+   "blackmore",
+   "blackmore.cloud"
+  ],
+  "legacy": {
+   "score": 0,
+   "tests": 1,
+   "rank": 60
+  }
+ },
+ {
+  "name": "Bluevps",
+  "url": "https://bluevps.com",
+  "flags": "🇪🇪",
+  "aliases": [
+   "bluevps",
+   "bluevps.com"
+  ],
+  "legacy": {
+   "score": 3,
+   "tests": 2,
+   "rank": 45
+  }
+ },
+ {
+  "name": "Cherry Servers",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "cherry servers",
+   "cherry-servers",
+   "cherryservers"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Cloudcore",
+  "url": "https://cloudcore.ru",
+  "flags": "🇷🇺",
+  "aliases": [
+   "cloudcore",
+   "cloudcore.ru"
+  ],
+  "legacy": {
+   "score": 4,
+   "tests": 3,
+   "rank": 35
+  }
+ },
+ {
+  "name": "Cloudrix",
+  "url": "https://cloudrix.ru",
+  "flags": "",
+  "aliases": [
+   "cloudrix",
+   "cloudrix.ru"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Clouvider",
+  "url": "https://clouvider.com",
+  "flags": "🇳🇱",
+  "aliases": [
+   "clouvider",
+   "clouvider.com"
+  ],
+  "legacy": {
+   "score": -2,
+   "tests": 1,
+   "rank": 75
+  }
+ },
+ {
+  "name": "Dasabo",
+  "url": "https://dasabo.com",
+  "flags": "🇩🇪",
+  "aliases": [
+   "dasabo",
+   "dasabo.com"
+  ],
+  "legacy": {
+   "score": 0,
+   "tests": 1,
+   "rank": 66
+  }
+ },
+ {
+  "name": "DataCheap",
+  "url": "https://datacheap.ru",
+  "flags": "🇷🇺",
+  "aliases": [
+   "datacheap",
+   "datacheap.ru"
+  ],
+  "legacy": {
+   "score": 2,
+   "tests": 3,
+   "rank": 50
+  }
+ },
+ {
+  "name": "Dataforest",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "data forest",
+   "dataforest"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Datagio",
+  "url": "https://datagio.net",
+  "flags": "🇩🇪🇵🇱",
+  "aliases": [
+   "datagio",
+   "datagio.net",
+   "detagio",
+   "датагио"
+  ],
+  "legacy": {
+   "score": 1,
+   "tests": 7,
+   "rank": 58
+  }
+ },
+ {
+  "name": "Dedicate IT",
+  "url": "https://t.me/dedicate_it_bot",
+  "flags": "🇩🇪",
+  "aliases": [
+   "dedicate it",
+   "dedicate-it",
+   "dedicate_it_bot",
+   "dedicateit"
+  ],
+  "legacy": {
+   "score": -2,
+   "tests": 1,
+   "rank": 74
+  }
+ },
+ {
+  "name": "DeluxHost",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "delux host",
+   "deluxhost"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "DHostvps",
+  "url": "https://t.me/dhostVPS_bot",
+  "flags": "🇩🇪🇳🇱",
+  "aliases": [
+   "dhost",
+   "dhosting",
+   "dhostvps",
+   "dhostvps_bot"
+  ],
+  "legacy": {
+   "score": 1,
+   "tests": 3,
+   "rank": 56
+  }
+ },
+ {
+  "name": "DieselHost",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "diesel host",
+   "dieselhost"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "DigitalOcean",
+  "url": "https://digitalocean.com",
+  "flags": "🌍",
+  "aliases": [
+   "digitalocean",
+   "digitalocean.com"
+  ],
+  "legacy": {
+   "score": 5,
+   "tests": 1,
+   "rank": 32
+  }
+ },
+ {
+  "name": "Dline-Media",
+  "url": "https://dline-media.com",
+  "flags": "🇷🇺",
+  "aliases": [
+   "dline media",
+   "dline-media",
+   "dline-media.com",
+   "dlinemedia"
+  ],
+  "legacy": {
+   "score": 3,
+   "tests": 1,
+   "rank": 40
+  }
+ },
+ {
+  "name": "Doubleservers",
+  "url": "https://doubleservers.com",
+  "flags": "🇩🇪🇫🇮🇫🇷🇨🇦🇳🇱",
+  "aliases": [
+   "double servers",
+   "doubleservers",
+   "doubleservers.com",
+   "doubleservers_bot"
+  ],
+  "legacy": {
+   "score": 97,
+   "tests": 33,
+   "rank": 1
+  }
+ },
+ {
+  "name": "Eternity Cloud",
+  "url": null,
+  "flags": "🇪🇪🇩🇪🇵🇱",
+  "aliases": [
+   "eternity cloud",
+   "eternity-cloud",
+   "eternitycloud",
+   "этернити"
+  ],
+  "legacy": {
+   "score": 0,
+   "tests": 2,
+   "rank": 62
+  }
+ },
+ {
+  "name": "EvonixCloud",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "evonix",
+   "evonixcloud"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "ExpressHost",
+  "url": "https://t.me/ExpressHost_Bot",
+  "flags": "🇵🇱🇳🇱🇫🇮🇩🇪🇪🇪",
+  "aliases": [
+   "express host",
+   "expresshost",
+   "expresshost_bot"
+  ],
+  "legacy": {
+   "score": 2,
+   "tests": 14,
+   "rank": 55
+  }
+ },
+ {
+  "name": "FirstVDS",
+  "url": "https://firstvds.ru",
+  "flags": "🇷🇺",
+  "aliases": [
+   "firstvds",
+   "firstvds.ru"
+  ],
+  "legacy": {
+   "score": 5,
+   "tests": 2,
+   "rank": 30
+  }
+ },
+ {
+  "name": "Forestsnet",
+  "url": "https://forestsnet.cloud",
+  "flags": "",
+  "aliases": [
+   "as219464",
+   "forestsnet",
+   "forestsnet.cloud",
+   "forestsnetcloud"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Freakhosting",
+  "url": "https://freakhosting.com",
+  "flags": "🇩🇪",
+  "aliases": [
+   "freak hosting",
+   "freakhosting",
+   "freakhosting.com"
+  ],
+  "legacy": {
+   "score": 15,
+   "tests": 6,
+   "rank": 12
+  }
+ },
+ {
+  "name": "G-Core",
+  "url": "https://gcore.com",
+  "flags": "",
+  "aliases": [
+   "g core",
+   "g-core",
+   "gcore",
+   "gcore.com"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "H1Cloud",
+  "url": "https://h1cloud.net",
+  "flags": "",
+  "aliases": [
+   "h1 cloud",
+   "h1cloud",
+   "h1cloud.net"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "H2Nexus",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "h2nexus"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Hb.by",
+  "url": "https://hb.by",
+  "flags": "🇧🇾",
+  "aliases": [],
+  "legacy": {
+   "score": 4,
+   "tests": 1,
+   "rank": 38
+  }
+ },
+ {
+  "name": "Hetzner",
+  "url": "https://hetzner.com",
+  "flags": "🇩🇪🇫🇮",
+  "aliases": [
+   "hetzner",
+   "hetzner.com",
+   "vibehost",
+   "хетцнер",
+   "хецнер"
+  ],
+  "legacy": {
+   "score": 18,
+   "tests": 11,
+   "rank": 8
+  }
+ },
+ {
+  "name": "Hip-Hosting",
+  "url": "https://hshp.host",
+  "flags": "🇫🇮🇵🇱🇸🇪",
+  "aliases": [
+   "hip hosting",
+   "hip-hosting",
+   "hip.hosting",
+   "hiphosting",
+   "hshp",
+   "hshp.host",
+   "weasel cloud"
+  ],
+  "legacy": {
+   "score": 14,
+   "tests": 8,
+   "rank": 14
+  }
+ },
+ {
+  "name": "Hostdzire",
+  "url": "https://hostdzire.com",
+  "flags": "",
+  "aliases": [
+   "hostdzire",
+   "hostdzire.com"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Hostes.io",
+  "url": "https://hostes.io",
+  "flags": "🇳🇱🇩🇪🇵🇱",
+  "aliases": [
+   "as213915",
+   "hostes",
+   "hostes.io",
+   "hostesio"
+  ],
+  "legacy": {
+   "score": -20,
+   "tests": 3,
+   "rank": 90
+  }
+ },
+ {
+  "name": "HostKey",
+  "url": "https://hostkey.com",
+  "flags": "",
+  "aliases": [
+   "host key",
+   "hostkey",
+   "hostkey.com"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "HOSTOFF.NET",
+  "url": "https://hostoff.net",
+  "flags": "🇳🇱🇵🇱",
+  "aliases": [
+   "hostoff",
+   "hostoff.net",
+   "hostoffnet"
+  ],
+  "legacy": {
+   "score": 12,
+   "tests": 5,
+   "rank": 16
+  }
+ },
+ {
+  "name": "Hostup",
+  "url": "https://hostup.co",
+  "flags": "🇸🇪",
+  "aliases": [
+   "hostup",
+   "hostup.co"
+  ],
+  "legacy": {
+   "score": 17,
+   "tests": 2,
+   "rank": 10
+  }
+ },
+ {
+  "name": "Hostvds",
+  "url": "https://hostvds.com",
+  "flags": "🇭🇰🇫🇮",
+  "aliases": [
+   "hostvds",
+   "hostvds.com"
+  ],
+  "legacy": {
+   "score": 8,
+   "tests": 4,
+   "rank": 21
+  }
+ },
+ {
+  "name": "Hostzealot",
+  "url": "https://hostzealot.com",
+  "flags": "🇪🇪🇸🇪",
+  "aliases": [
+   "hostzealot",
+   "hostzealot.com"
+  ],
+  "legacy": {
+   "score": 2,
+   "tests": 2,
+   "rank": 49
+  }
+ },
+ {
+  "name": "Inferno",
+  "url": "https://inferno.name",
+  "flags": "",
+  "aliases": [
+   "inferno",
+   "inferno.name"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Infomaniak",
+  "url": "https://infomaniak.com",
+  "flags": "🇨🇭",
+  "aliases": [
+   "infomaniak",
+   "infomaniak.com"
+  ],
+  "legacy": {
+   "score": 4,
+   "tests": 3,
+   "rank": 37
+  }
+ },
+ {
+  "name": "Infrawire",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "infrawire"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Intezio",
+  "url": "https://intezio.net",
+  "flags": "🇪🇪🇵🇱",
+  "aliases": [
+   "intezio",
+   "intezio.net",
+   "интезио"
+  ],
+  "legacy": {
+   "score": 15,
+   "tests": 7,
+   "rank": 13
+  }
+ },
+ {
+  "name": "IShosting",
+  "url": "https://ishosting.com",
+  "flags": "🇯🇵",
+  "aliases": [
+   "ishosting",
+   "ishosting.com"
+  ],
+  "legacy": {
+   "score": 3,
+   "tests": 1,
+   "rank": 44
+  }
+ },
+ {
+  "name": "It-Garage",
+  "url": "https://it-garage.pro",
+  "flags": "🇫🇮🇩🇪",
+  "aliases": [
+   "it garage",
+   "it-garage",
+   "it-garage.pro",
+   "itgarage"
+  ],
+  "legacy": {
+   "score": -7,
+   "tests": 2,
+   "rank": 85
+  }
+ },
+ {
+  "name": "ITLDC",
+  "url": "https://itldc.com",
+  "flags": "",
+  "aliases": [
+   "itldc",
+   "itldc.com"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "iwihost",
+  "url": "https://iwihost.net",
+  "flags": "🇺🇸",
+  "aliases": [
+   "iwihost",
+   "iwihost.net"
+  ],
+  "legacy": {
+   "score": 0,
+   "tests": 1,
+   "rank": 64
+  }
+ },
+ {
+  "name": "Justhost",
+  "url": "https://justhost.ru",
+  "flags": "🇷🇺",
+  "aliases": [
+   "justhost",
+   "justhost.ru"
+  ],
+  "legacy": {
+   "score": -5,
+   "tests": 1,
+   "rank": 81
+  }
+ },
+ {
+  "name": "Kyonix",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "kyonix"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Lili.cloud",
+  "url": "https://lili.cloud",
+  "flags": "",
+  "aliases": [
+   "lili",
+   "lili.cloud",
+   "lilicloud"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "LisaHost",
+  "url": "https://lisahost.com",
+  "flags": "🇺🇸",
+  "aliases": [
+   "lisahost",
+   "lisahost.com"
+  ],
+  "legacy": {
+   "score": 16,
+   "tests": 2,
+   "rank": 11
+  }
+ },
+ {
+  "name": "LunarHost",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "lunar host",
+   "lunarhost"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Makecloud",
+  "url": "https://makecloud.ru",
+  "flags": "🇷🇺",
+  "aliases": [
+   "makecloud",
+   "makecloud.ru"
+  ],
+  "legacy": {
+   "score": -1,
+   "tests": 1,
+   "rank": 71
+  }
+ },
+ {
+  "name": "MarshallHost",
+  "url": "https://marshallhost.com",
+  "flags": "",
+  "aliases": [
+   "marshall host",
+   "marshallhost",
+   "marshallhost.com"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Melbicom",
+  "url": "https://melbicom.net",
+  "flags": "🇳🇬",
+  "aliases": [
+   "melbicom",
+   "melbicom.net"
+  ],
+  "legacy": {
+   "score": 3,
+   "tests": 1,
+   "rank": 43
+  }
+ },
+ {
+  "name": "Metrabyte",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "metrabyte"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Mevspace",
+  "url": "https://mevspace.gg",
+  "flags": "",
+  "aliases": [
+   "mevspace",
+   "mevspace.gg"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Midas Hosting",
+  "url": null,
+  "flags": "🇬🇧🇳🇱",
+  "aliases": [
+   "mhost",
+   "midas",
+   "midas hosting",
+   "midas-hosting",
+   "midas.hosting",
+   "midashosting"
+  ],
+  "legacy": {
+   "score": 13,
+   "tests": 7,
+   "rank": 15
+  }
+ },
+ {
+  "name": "MTW",
+  "url": "https://mtw.ru",
+  "flags": "🇷🇺",
+  "aliases": [
+   "mtw.ru"
+  ],
+  "legacy": {
+   "score": -7,
+   "tests": 1,
+   "rank": 84
+  }
+ },
+ {
+  "name": "Netangels",
+  "url": "https://netangels.ru",
+  "flags": "🇷🇺",
+  "aliases": [
+   "netangels",
+   "netangels.ru"
+  ],
+  "legacy": {
+   "score": 0,
+   "tests": 1,
+   "rank": 63
+  }
+ },
+ {
+  "name": "Netgrid",
+  "url": "https://netgrid.host",
+  "flags": "🇧🇬🇷🇴",
+  "aliases": [
+   "netgrid",
+   "netgrid.host"
+  ],
+  "legacy": {
+   "score": -2,
+   "tests": 3,
+   "rank": 73
+  }
+ },
+ {
+  "name": "Nivaro",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "nivaro"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Nodehost",
+  "url": "https://nodehost.ru",
+  "flags": "🇩🇪🇫🇮🇳🇱🇵🇱🇸🇪",
+  "aliases": [
+   "node host",
+   "nodehost",
+   "nodehost.ru",
+   "нодхост",
+   "ноудхост"
+  ],
+  "legacy": {
+   "score": -67,
+   "tests": 39,
+   "rank": 92
+  }
+ },
+ {
+  "name": "NuxtCloud",
+  "url": "https://nuxt.cloud",
+  "flags": "🇷🇺",
+  "aliases": [
+   "nuxt",
+   "nuxt cloud",
+   "nuxt.cloud",
+   "nuxtcloud"
+  ],
+  "legacy": {
+   "score": 3,
+   "tests": 1,
+   "rank": 41
+  }
+ },
+ {
+  "name": "On1x",
+  "url": "https://on1x.cloud",
+  "flags": "",
+  "aliases": [
+   "on1x",
+   "on1x.cloud"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "OneDash",
+  "url": "https://t.me/OneDash",
+  "flags": "",
+  "aliases": [
+   "one dash",
+   "onedash",
+   "rdp-onedash"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Onidel",
+  "url": "https://onidel.com",
+  "flags": "🇳🇱",
+  "aliases": [
+   "onidel",
+   "onidel.com"
+  ],
+  "legacy": {
+   "score": 3,
+   "tests": 1,
+   "rank": 46
+  }
+ },
+ {
+  "name": "OVH",
+  "url": "https://ovhcloud.com",
+  "flags": "🇫🇷🇩🇪🇨🇦",
+  "aliases": [
+   "ovhcloud",
+   "ovhcloud.com"
+  ],
+  "legacy": {
+   "score": 34,
+   "tests": 11,
+   "rank": 3
+  }
+ },
+ {
+  "name": "Pfcloud",
+  "url": "https://pfcloud.io",
+  "flags": "🇸🇮",
+  "aliases": [
+   "pfcloud",
+   "pfcloud.io"
+  ],
+  "legacy": {
+   "score": -4,
+   "tests": 1,
+   "rank": 78
+  }
+ },
+ {
+  "name": "Phylex",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "phylex"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Play2Go",
+  "url": "https://play2go.cloud",
+  "flags": "🇩🇪🇫🇮🇳🇱🇸🇪🇵🇱",
+  "aliases": [
+   "p2g",
+   "play2go",
+   "play2go.cloud",
+   "п2г",
+   "плей2го"
+  ],
+  "legacy": {
+   "score": -66,
+   "tests": 36,
+   "rank": 91
+  }
+ },
+ {
+  "name": "PowerRDP",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "power rdp",
+   "powerrdp"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Private-Hosting",
+  "url": "https://private-hosting.eu",
+  "flags": "🇩🇪",
+  "aliases": [
+   "private hosting",
+   "private-hosting",
+   "private-hosting.eu",
+   "privatehosting"
+  ],
+  "legacy": {
+   "score": 0,
+   "tests": 1,
+   "rank": 68
+  }
+ },
+ {
+  "name": "Procloud",
+  "url": "https://procloud.ru",
+  "flags": "🇷🇺🇵🇱",
+  "aliases": [
+   "procloud",
+   "procloud.ru"
+  ],
+  "legacy": {
+   "score": 10,
+   "tests": 3,
+   "rank": 18
+  }
+ },
+ {
+  "name": "Profitserver",
+  "url": "https://profitserver.ru",
+  "flags": "",
+  "aliases": [
+   "profit server",
+   "profitserver",
+   "profitserver.ru"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Psychz",
+  "url": "https://psychz.net",
+  "flags": "🇺🇸",
+  "aliases": [
+   "psychz",
+   "psychz.net"
+  ],
+  "legacy": {
+   "score": 5,
+   "tests": 1,
+   "rank": 27
+  }
+ },
+ {
+  "name": "Purecloud",
+  "url": "https://t.me/purecloud_robot",
+  "flags": "🇵🇱",
+  "aliases": [
+   "purecloud",
+   "purecloud_robot"
+  ],
+  "legacy": {
+   "score": 1,
+   "tests": 1,
+   "rank": 59
+  }
+ },
+ {
+  "name": "Puws.Cloud",
+  "url": "https://puws.cloud",
+  "flags": "🇵🇱",
+  "aliases": [
+   "puws",
+   "puws.cloud",
+   "puwscloud"
+  ],
+  "legacy": {
+   "score": 10,
+   "tests": 3,
+   "rank": 19
+  }
+ },
+ {
+  "name": "Qwins",
+  "url": "https://qwins.co",
+  "flags": "🇷🇺🇪🇺",
+  "aliases": [
+   "qwins",
+   "qwins.co",
+   "квинс"
+  ],
+  "legacy": {
+   "score": -4,
+   "tests": 7,
+   "rank": 80
+  }
+ },
+ {
+  "name": "Rabisu",
+  "url": "https://rabisu.com",
+  "flags": "🇹🇷",
+  "aliases": [
+   "rabisu",
+   "rabisu.com"
+  ],
+  "legacy": {
+   "score": 2,
+   "tests": 1,
+   "rank": 52
+  }
+ },
+ {
+  "name": "Racknerd",
+  "url": "https://racknerd.com",
+  "flags": "🇺🇸",
+  "aliases": [
+   "racknerd",
+   "racknerd.com"
+  ],
+  "legacy": {
+   "score": 0,
+   "tests": 1,
+   "rank": 69
+  }
+ },
+ {
+  "name": "Rawi Host",
+  "url": "https://rawi.host",
+  "flags": "",
+  "aliases": [
+   "rawi",
+   "rawi host",
+   "rawi-host",
+   "rawi.host",
+   "rawihost"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Realtoxmedia",
+  "url": "https://realtoxmedia.de",
+  "flags": "",
+  "aliases": [
+   "realtoxmedia",
+   "realtoxmedia.de"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Regxa",
+  "url": "https://regxa.com",
+  "flags": "🇫🇷🇵🇱",
+  "aliases": [
+   "regxa",
+   "regxa.com"
+  ],
+  "legacy": {
+   "score": 5,
+   "tests": 2,
+   "rank": 28
+  }
+ },
+ {
+  "name": "Rifty",
+  "url": "https://rifty.org",
+  "flags": "🇩🇪",
+  "aliases": [
+   "rifty",
+   "rifty.org"
+  ],
+  "legacy": {
+   "score": 2,
+   "tests": 1,
+   "rank": 51
+  }
+ },
+ {
+  "name": "RU-Center",
+  "url": "https://nic.ru",
+  "flags": "",
+  "aliases": [
+   "nic.ru",
+   "ru center",
+   "ru-center",
+   "rucenter"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Scaleway",
+  "url": "https://scaleway.com",
+  "flags": "🇫🇷",
+  "aliases": [
+   "scaleway",
+   "scaleway.com"
+  ],
+  "legacy": {
+   "score": 2,
+   "tests": 1,
+   "rank": 53
+  }
+ },
+ {
+  "name": "Selectel",
+  "url": "https://selectel.ru",
+  "flags": "🇷🇺🇰🇿",
+  "aliases": [
+   "selectel",
+   "selectel.ru",
+   "селектел"
+  ],
+  "legacy": {
+   "score": 29,
+   "tests": 8,
+   "rank": 4
+  }
+ },
+ {
+  "name": "Serv.host",
+  "url": "https://serv.host",
+  "flags": "🇷🇺🇸🇪",
+  "aliases": [
+   "serv.host",
+   "servhost"
+  ],
+  "legacy": {
+   "score": 9,
+   "tests": 5,
+   "rank": 20
+  }
+ },
+ {
+  "name": "ServCity",
+  "url": "https://servcity.org",
+  "flags": "",
+  "aliases": [
+   "serv city",
+   "servcity",
+   "servcity.org"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Serverspace",
+  "url": "https://serverspace.ru",
+  "flags": "",
+  "aliases": [
+   "serverspace",
+   "serverspace.ru"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "SharpTech",
+  "url": "https://shrp.no",
+  "flags": "🇳🇴",
+  "aliases": [
+   "sharp tech",
+   "sharptech",
+   "shrp",
+   "shrp.no"
+  ],
+  "legacy": {
+   "score": 18,
+   "tests": 1,
+   "rank": 7
+  }
+ },
+ {
+  "name": "Skrime",
+  "url": "https://skrime.eu",
+  "flags": "🇩🇪",
+  "aliases": [
+   "skrime",
+   "skrime.eu"
+  ],
+  "legacy": {
+   "score": -1,
+   "tests": 1,
+   "rank": 72
+  }
+ },
+ {
+  "name": "SmartApe",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "smart ape",
+   "smartape"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Soulful Hosting",
+  "url": "https://soulful.host",
+  "flags": "",
+  "aliases": [
+   "soulful",
+   "soulful hosting",
+   "soulful-hosting",
+   "soulful.host",
+   "soulfulhosting"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "StenCloud",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "sten cloud",
+   "stencloud"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "SWE Hosting",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "swe hosting",
+   "swe-hosting",
+   "swehosting"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "The-AE.cloud",
+  "url": "https://the-ae.cloud",
+  "flags": "🇩🇪",
+  "aliases": [
+   "the ae.cloud",
+   "the-ae",
+   "the-ae.cloud",
+   "theaecloud"
+  ],
+  "legacy": {
+   "score": 6,
+   "tests": 1,
+   "rank": 22
+  }
+ },
+ {
+  "name": "Tihost",
+  "url": "https://t.me/Tihost",
+  "flags": "🇫🇮🇩🇪",
+  "aliases": [
+   "ti host",
+   "tihost",
+   "tihost.io"
+  ],
+  "legacy": {
+   "score": 4,
+   "tests": 2,
+   "rank": 36
+  }
+ },
+ {
+  "name": "TimeWeb",
+  "url": "https://timeweb.cloud",
+  "flags": "🇷🇺",
+  "aliases": [
+   "time web",
+   "timeweb",
+   "timeweb.cloud",
+   "таймвеб"
+  ],
+  "legacy": {
+   "score": 6,
+   "tests": 2,
+   "rank": 26
+  }
+ },
+ {
+  "name": "TNAHosting",
+  "url": "https://tnahosting.net",
+  "flags": "🇺🇸",
+  "aliases": [
+   "tnahosting",
+   "tnahosting.net"
+  ],
+  "legacy": {
+   "score": -3,
+   "tests": 1,
+   "rank": 77
+  }
+ },
+ {
+  "name": "ToolVPS",
+  "url": "https://toolvps.com",
+  "flags": "",
+  "aliases": [
+   "tool vps",
+   "toolvps",
+   "toolvps.com"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Turtleguard",
+  "url": "https://turtleguard.cloud",
+  "flags": "🇩🇪🇳🇱",
+  "aliases": [
+   "turtleguard",
+   "turtleguard.cloud"
+  ],
+  "legacy": {
+   "score": 3,
+   "tests": 1,
+   "rank": 47
+  }
+ },
+ {
+  "name": "U1Host",
+  "url": "https://u1host.com",
+  "flags": "🇳🇱",
+  "aliases": [
+   "u1 host",
+   "u1host",
+   "u1host.com"
+  ],
+  "legacy": {
+   "score": 6,
+   "tests": 3,
+   "rank": 25
+  }
+ },
+ {
+  "name": "UFO Hosting",
+  "url": "https://ufo.hosting",
+  "flags": "",
+  "aliases": [
+   "ufo hosting",
+   "ufo-hosting",
+   "ufo.hosting",
+   "ufohosting"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Unesty",
+  "url": "https://server.unesty.net",
+  "flags": "🇩🇪",
+  "aliases": [
+   "server.unesty.net",
+   "unesty"
+  ],
+  "legacy": {
+   "score": 4,
+   "tests": 1,
+   "rank": 34
+  }
+ },
+ {
+  "name": "Upcloud",
+  "url": "https://upcloud.com",
+  "flags": "🇩🇪",
+  "aliases": [
+   "upcloud",
+   "upcloud.com"
+  ],
+  "legacy": {
+   "score": 3,
+   "tests": 1,
+   "rank": 42
+  }
+ },
+ {
+  "name": "Vdc.ru",
+  "url": "https://vdc.ru",
+  "flags": "🇱🇻",
+  "aliases": [
+   "vdc.ru",
+   "vdcru"
+  ],
+  "legacy": {
+   "score": 0,
+   "tests": 1,
+   "rank": 70
+  }
+ },
+ {
+  "name": "VDSKA",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "vdska"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Veesp",
+  "url": "https://veesp.com",
+  "flags": "🇱🇻🇳🇱🇸🇪",
+  "aliases": [
+   "veesp",
+   "veesp.com"
+  ],
+  "legacy": {
+   "score": 17,
+   "tests": 5,
+   "rank": 9
+  }
+ },
+ {
+  "name": "Vihyper",
+  "url": "https://vihyper.net",
+  "flags": "🇹🇷",
+  "aliases": [
+   "vihyper",
+   "vihyper.net"
+  ],
+  "legacy": {
+   "score": 5,
+   "tests": 1,
+   "rank": 33
+  }
+ },
+ {
+  "name": "VK Cloud",
+  "url": "https://cloud.vk.com",
+  "flags": "🇷🇺",
+  "aliases": [
+   "cloud.vk.com",
+   "vk cloud",
+   "vk-cloud",
+   "vkcloud"
+  ],
+  "legacy": {
+   "score": 6,
+   "tests": 1,
+   "rank": 24
+  }
+ },
+ {
+  "name": "VpsPay",
+  "url": "https://t.me/VPSPay_bot",
+  "flags": "🇫🇮🇩🇪",
+  "aliases": [
+   "vpspay",
+   "vpspay_bot"
+  ],
+  "legacy": {
+   "score": -14,
+   "tests": 4,
+   "rank": 88
+  }
+ },
+ {
+  "name": "Vpstc",
+  "url": "https://vps.tc",
+  "flags": "🇹🇷",
+  "aliases": [
+   "vps.tc",
+   "vpstc"
+  ],
+  "legacy": {
+   "score": -3,
+   "tests": 3,
+   "rank": 76
+  }
+ },
+ {
+  "name": "Vpsville",
+  "url": "https://vpsville.ru",
+  "flags": "🇷🇺",
+  "aliases": [
+   "vpsville",
+   "vpsville.ru"
+  ],
+  "legacy": {
+   "score": 6,
+   "tests": 1,
+   "rank": 23
+  }
+ },
+ {
+  "name": "Vultr",
+  "url": "https://vultr.com",
+  "flags": "🌍",
+  "aliases": [
+   "vultr",
+   "vultr.com"
+  ],
+  "legacy": {
+   "score": 2,
+   "tests": 1,
+   "rank": 54
+  }
+ },
+ {
+  "name": "Vyrex",
+  "url": "https://vyrex.co",
+  "flags": "🇩🇪",
+  "aliases": [
+   "vyrex",
+   "vyrex.co"
+  ],
+  "legacy": {
+   "score": 1,
+   "tests": 4,
+   "rank": 57
+  }
+ },
+ {
+  "name": "Waicore",
+  "url": "https://waicore.com",
+  "flags": "🇩🇪🇳🇱🇪🇪🇫🇮",
+  "aliases": [
+   "asdhere",
+   "waicore",
+   "waicore.com",
+   "вайкор"
+  ],
+  "legacy": {
+   "score": 52,
+   "tests": 16,
+   "rank": 2
+  }
+ },
+ {
+  "name": "WarpX",
+  "url": "https://warpx.cloud",
+  "flags": "🇷🇺",
+  "aliases": [
+   "warpx",
+   "warpx.cloud"
+  ],
+  "legacy": {
+   "score": -9,
+   "tests": 7,
+   "rank": 86
+  }
+ },
+ {
+  "name": "Weecere",
+  "url": "https://weecere.com",
+  "flags": "🇺🇸",
+  "aliases": [
+   "weecere",
+   "weecere.com"
+  ],
+  "legacy": {
+   "score": 5,
+   "tests": 2,
+   "rank": 29
+  }
+ },
+ {
+  "name": "Wuldi",
+  "url": null,
+  "flags": "",
+  "aliases": [
+   "wuldi"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Xorek",
+  "url": "https://xorek.cloud",
+  "flags": "🇫🇮🇩🇪",
+  "aliases": [
+   "xorek",
+   "xorek.cloud"
+  ],
+  "legacy": {
+   "score": -6,
+   "tests": 2,
+   "rank": 82
+  }
+ },
+ {
+  "name": "Xytor",
+  "url": "https://xytor.cloud",
+  "flags": "",
+  "aliases": [
+   "xytor",
+   "xytor.cloud"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Yeezyhost",
+  "url": "https://yeezyhost.net",
+  "flags": "",
+  "aliases": [
+   "yeezy host",
+   "yeezyhost",
+   "yeezyhost.net"
+  ],
+  "legacy": null
+ },
+ {
+  "name": "Yottasrc",
+  "url": "https://yottasrc.com",
+  "flags": "🇳🇱",
+  "aliases": [
+   "yottasrc",
+   "yottasrc.com"
+  ],
+  "legacy": {
+   "score": 0,
+   "tests": 1,
+   "rank": 67
+  }
+ },
+ {
+  "name": "Zadeservers",
+  "url": "https://zadeservers.net",
+  "flags": "",
+  "aliases": [
+   "zadeservers",
+   "zadeservers.net"
+  ],
+  "legacy": {
+   "score": 0,
+   "tests": 1,
+   "rank": 65
+  }
+ },
+ {
+  "name": "Zeabur",
+  "url": "https://zeabur.com",
+  "flags": "🇯🇵",
+  "aliases": [
+   "zeabur",
+   "zeabur.com"
+  ],
+  "legacy": {
+   "score": 0,
+   "tests": 1,
+   "rank": 61
+  }
+ }
+]

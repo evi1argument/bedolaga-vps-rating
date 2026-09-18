@@ -1,0 +1,33 @@
+name: validate
+
+on:
+  push:
+    paths: ['data/**', 'scripts/**', 'content/**', 'rating.json', 'README.md']
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Пересобрать рейтинг из сырых данных
+        run: |
+          python scripts/parse_export.py
+          python scripts/score.py
+          python scripts/render.py
+
+      - name: Проверить консистентность
+        run: python scripts/validate.py
+
+      - name: Убедиться, что README собран из текущих данных
+        run: |
+          if ! git diff --quiet -- README.md rating.json; then
+            echo "README.md или rating.json не совпадают с пересборкой из data/raw/."
+            echo "Запустите: python scripts/build.py — и закоммитьте результат."
+            git diff --stat -- README.md rating.json
+            exit 1
+          fi
