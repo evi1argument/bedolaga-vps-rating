@@ -4,7 +4,7 @@
 
 Счётчик упоминаний и динамика интереса. Оценка качества — в [README.md](./README.md).
 
-![Сообщений](https://img.shields.io/badge/сообщений-174_782-blue?style=flat-square) ![Брендов](https://img.shields.io/badge/брендов-119-green?style=flat-square) ![Период](https://img.shields.io/badge/период-2026-05–2026-09-orange?style=flat-square)
+![Сообщений](https://img.shields.io/badge/сообщений-174_782-blue?style=flat-square) ![Брендов](https://img.shields.io/badge/брендов-119-green?style=flat-square) ![Период](https://img.shields.io/badge/период-2026--05...2026--09-orange?style=flat-square)
 
 </div>
 

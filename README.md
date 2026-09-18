@@ -4,7 +4,7 @@
 
 Рейтинг VPS-хостингов по реакциям участников чата. Считается скриптом из сырой выгрузки — цифры можно перепроверить.
 
-![Хостингов](https://img.shields.io/badge/хостингов-102-blue?style=flat-square) ![Тестов](https://img.shields.io/badge/тестов-284-green?style=flat-square) ![Данные](https://img.shields.io/badge/данные-2026-09-18-orange?style=flat-square) ![Свежесть](https://img.shields.io/badge/актуально-0_дней-lightgrey?style=flat-square)
+![Хостингов](https://img.shields.io/badge/хостингов-102-blue?style=flat-square) ![Тестов](https://img.shields.io/badge/тестов-284-green?style=flat-square) ![Данные](https://img.shields.io/badge/данные-2026--09--18-orange?style=flat-square) ![Свежесть](https://img.shields.io/badge/актуально-0_дней-lightgrey?style=flat-square)
 
 </div>
 

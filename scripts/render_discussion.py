@@ -13,6 +13,11 @@ DATA = ROOT / "data"
 MIN_MENTIONS = 20
 
 
+def badge(text):
+    """Экранирование для shields.io: дефис там разделитель полей."""
+    return str(text).replace("-", "--").replace("_", "__").replace(" ", "_")
+
+
 def spark(values):
     """Мини-график помесячной динамики."""
     blocks = "▁▂▃▄▅▆▇█"
@@ -54,9 +59,10 @@ def main():
     p.append("# 💬 О чём говорят — чат «Обсуждение хостингов»\n")
     p.append("Счётчик упоминаний и динамика интереса. Оценка качества — в [README.md](./README.md).\n")
     p.append(
-        f"![Сообщений](https://img.shields.io/badge/сообщений-174_782-blue?style=flat-square) "
-        f"![Брендов](https://img.shields.io/badge/брендов-{len(rows)}-green?style=flat-square) "
-        f"![Период](https://img.shields.io/badge/период-{months[0]}–{months[-1]}-orange?style=flat-square)\n"
+        f"![Сообщений](https://img.shields.io/badge/сообщений-{badge('174 782')}-blue?style=flat-square) "
+        f"![Брендов](https://img.shields.io/badge/брендов-{badge(len(rows))}-green?style=flat-square) "
+        # Тире shields.io вырезает из значения, многоточие проходит как есть.
+        f"![Период](https://img.shields.io/badge/период-{badge(months[0]) + '...' + badge(months[-1])}-orange?style=flat-square)\n"
     )
     p.append("</div>\n")
     p.append("---\n")

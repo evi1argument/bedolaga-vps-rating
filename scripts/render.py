@@ -23,6 +23,12 @@ TIERS = [
 ]
 
 
+def badge(text):
+    """Экранирование для shields.io: дефис там разделитель полей,
+    поэтому в значении его надо удваивать, иначе бейдж отдаёт 404."""
+    return str(text).replace("-", "--").replace("_", "__").replace(" ", "_")
+
+
 def bar(w):
     filled = round(w * 10)
     return "█" * filled + "░" * (10 - filled)
@@ -82,10 +88,10 @@ def main():
     p.append("# 🖥️ VPS Rating — Telegram «Тесты VPS»\n")
     p.append("Рейтинг VPS-хостингов по реакциям участников чата. Считается скриптом из сырой выгрузки — цифры можно перепроверить.\n")
     p.append(
-        f"![Хостингов](https://img.shields.io/badge/хостингов-{t['brands']}-blue?style=flat-square) "
-        f"![Тестов](https://img.shields.io/badge/тестов-{t['tests']}-green?style=flat-square) "
-        f"![Данные](https://img.shields.io/badge/данные-{period_to}-orange?style=flat-square) "
-        f"![Свежесть](https://img.shields.io/badge/{freshness.split()[1]}-{age}_дней-lightgrey?style=flat-square)\n"
+        f"![Хостингов](https://img.shields.io/badge/хостингов-{badge(t['brands'])}-blue?style=flat-square) "
+        f"![Тестов](https://img.shields.io/badge/тестов-{badge(t['tests'])}-green?style=flat-square) "
+        f"![Данные](https://img.shields.io/badge/данные-{badge(period_to)}-orange?style=flat-square) "
+        f"![Свежесть](https://img.shields.io/badge/{badge(freshness.split()[1])}-{badge(str(age) + ' дней')}-lightgrey?style=flat-square)\n"
     )
     p.append("</div>\n")
     p.append("---\n")
