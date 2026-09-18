@@ -36,7 +36,14 @@ def verdict_cell(b):
 
 
 def main():
-    rows = list(csv.DictReader(open(DATA / "processed" / "mentions.csv", encoding="utf-8")))
+    src = DATA / "processed" / "mentions.csv"
+    if not src.exists():
+        # Выгрузка «Обсуждения» в репозитории не лежит (~190 МБ), поэтому шаг
+        # необязательный: без неё пересобирается всё остальное.
+        print("mentions.csv нет — пропускаю. Чтобы собрать: "
+              'python scripts/parse_mentions.py "путь/к/ChatExport_YYYY-MM-DD"')
+        return
+    rows = list(csv.DictReader(open(src, encoding="utf-8")))
     months = [c for c in rows[0].keys() if c not in ("brand", "total")]
     rating = json.load(open(ROOT / "rating.json", encoding="utf-8"))
     by_brand = {b["brand"]: b for b in rating["brands"]}
